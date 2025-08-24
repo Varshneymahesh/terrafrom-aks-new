@@ -1,0 +1,17 @@
+name: dhodhu
+on:
+ push:
+  branches:
+  - 'main'
+  - 'features/**'
+jobs:
+ dhohoprini:
+  name: dhoduprint
+  runs-on: ubuntu-latest
+  steps:
+  - name: dhodumaharaj rock
+    run: echo dhoto phod deje hum
+ 
+
+
+  
